@@ -8,7 +8,7 @@ The app checks permission handling, stream lifecycle behavior, and capture metad
 
 ## Live Demo
 
-Deployed URL: [https://your-deployment-link.vercel.app](https://screen-share-test-app.netlify.app/)
+Deployed URL: https://screen-share-test-app.netlify.app/
 
 ---
 
